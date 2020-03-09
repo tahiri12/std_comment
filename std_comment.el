@@ -7,7 +7,7 @@
 
 ;;; Code:
 
-(global-set-key   (kbd "C-c C-h") 'std-file-header)
+(setq header-etna-login "moulin_e")
 (eval-when-compile
   (defvar header-etna)
   (defvar header-description)
